@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.db
+.vscode/
+.idea/
+learn.ipynb
+PROJECT_CONTEXT.md
