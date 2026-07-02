@@ -4,7 +4,6 @@ MODEL_NAME = "phi3"
 
 
 def ask_llm(prompt):
-
     response = chat(
         model=MODEL_NAME,
         messages=[
